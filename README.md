@@ -132,3 +132,55 @@ Traditional methods rely on **drying combined with humectants** (sugars and salt
 2. **High Calorie Content**: Due to the use of high levels of sugar, IMFs can be high in calories.
 3. **Sensitive Texture**: The texture may be soft and delicate, making the food prone to damage if not handled properly.
 4. **Altered Sensory Properties**: The use of humectants (sugars and salts) can affect the flavor and overall sensory experience of the food.
+---
+---
+
+
+### **Thermal Methods**
+
+#### **Blanching**
+- Briefly heating food (usually fruits or vegetables) in boiling water or steam, followed by rapid cooling in cold water. This preserves the color, texture, and nutritional value of the food.
+
+#### **Sterilization**
+- Applying high heat (usually above 100°C) to food to kill harmful microorganisms like bacteria, molds, and yeasts.
+
+##### **Common Methods**:
+- **Canning**: Placing food in airtight containers (jars or cans) and heating them to kill microorganisms.
+- **Pasteurization**: Heating food to a specific temperature for a set duration, then rapidly cooling it to reduce microorganism numbers to a safe level (typically between **60°C to 85°C**).
+
+#### **Baking**
+- A dry-heat cooking method using hot air, typically in an oven, to cook food. The temperature generally ranges from **150°C to 220°C**, depending on the food.
+
+---
+
+### **Drying and Dehydration**
+- Processes that remove moisture from food to prevent microbial growth and spoilage, extending shelf life.
+
+#### **Methods**:
+- **Sun Drying**: Drying food under direct sunlight. It is energy-efficient but weather-dependent.
+- **Air Drying**: Using warm air to remove moisture, often with fans.
+- **Freeze Drying**: Freezing food and then vacuuming to remove moisture without heat.
+- **Spray Drying**: Spraying liquid food into hot air to quickly turn it into powder.
+- **Oven Drying**: Drying food in an oven at low temperatures.
+
+---
+
+### **Freezing**
+- Lowering the temperature of food below freezing point (usually -18°C or lower), causing the water in the food to freeze and slow down microbial growth.
+
+---
+
+### **Fermentation**
+- A metabolic process where microorganisms (bacteria, yeast, or molds) break down food components (such as sugars) to produce desirable products like acids or alcohol. This process helps preserve food and inhibits microbial growth.
+
+---
+
+### **Pickling and Curing**
+
+#### **Pickling**
+- Preserving food by immersing it in an acidic solution (typically vinegar) or by fermentation in a brine solution.
+
+#### **Curing**
+- Using salt, sugar, and/or smoke to preserve and flavor foods, especially meats. Salt and sugar draw moisture out of food, inhibiting bacterial growth, while smoking adds flavor and further preserves the food.
+
+--- 
