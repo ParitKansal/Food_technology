@@ -220,13 +220,13 @@ Without chemical preservatives, food would spoil much faster, potentially leadin
 
 Hurdle Technology works by combining different factors (hurdles) that inhibit microbial growth or spoilage. These hurdles can include:
 
-- **Temperature Control**: Using heat (pasteurization, refrigeration, or freezing) to control microbial growth.
-- **Acidity (pH)**: Lowering the pH (making the food more acidic) to slow or prevent the growth of microorganisms.
-- **Water Activity (aw)**: Reducing the amount of water available for microbial growth by drying, adding salt or sugar, or using humectants (substances that attract moisture).
-- **Oxygen Availability**: Limiting or controlling the exposure to oxygen to prevent the growth of aerobic bacteria or spoilage.
-- **Chemical Preservatives**: Using mild preservatives (such as salt, sugar, or organic acids) to inhibit microbial growth.
-- **Pressure**: Applying **high pressure processing (HPP)** to kill microorganisms without using heat.
-- **Light and Radiation**: Using methods like **UV light** or **ionizing radiation** to kill microorganisms or reduce their activity.
+- **Temperature Control**: Low or High
+- **Low Acidity (pH)**
+- **Reducing Water Activity (aw)**
+- **Reducing Oxygen Availability**
+- **Adding Chemical Preservatives**
+- **High Pressure Processing (HPP)**
+- **Light and Radiation**
 
 ### **Principles of Hurdle Technology**
 
@@ -240,12 +240,9 @@ The goal of hurdle technology is to use a combination of preservation methods to
 
 ### 3. **Examples of Hurdle Technology in Food Preservation**
 
-- **Refrigeration + Acidity**: A common example is **pickling**, where vegetables (like cucumbers) are stored in an acidic brine (vinegar) and refrigerated. The **acidic pH** (from vinegar) creates an inhospitable environment for many microorganisms, and the low temperature slows down their growth. Together, these hurdles extend the shelf life of pickled vegetables.
-
-- **Salt + Drying + Heat**: Cured meats, such as **salami** or **jerky**, often use a combination of **salting**, **drying**, and **mild heat** (sometimes with smoking). Salt reduces water activity (aw), making it harder for microorganisms to grow. Drying further removes water, and heat or smoking can kill any remaining bacteria.
-
-- **Pressure + Temperature + Antioxidants**: **High-pressure processing (HPP)** is used in combination with low temperatures and sometimes antioxidants (such as **vitamin C**) in products like **juices** and **ready-to-eat meals**. The high pressure destroys microbes, and the temperature and antioxidants help to maintain freshness and prevent spoilage.
-
+- **Refrigeration + Acidity**: A common example is **pickling**, where vegetables (like cucumbers) are stored in an acidic brine (vinegar) and refrigerated.
+- **Salt + Drying + Heat**: Cured meats, such as **salami** or **jerky**, often use a combination of **salting**, **drying**, and **mild heat** (sometimes with smoking). 
+- **Pressure + Temperature + Antioxidants**: **HPP** is used in combination with low temperatures and sometimes antioxidants (such as **vitamin C**) in products like **juices** and **ready-to-eat meals**.
 - **Sugar + Acid + Low Temperature**: **Jam** or **fruit preserves** use sugar and acidity (from fruit or added citric acid) to preserve the fruit. Sugar binds water, reducing water activity, while acidity lowers the pH, creating a hostile environment for microorganisms. These methods are combined with storage at cool temperatures to ensure the product remains safe and lasts longer.
 
 ### **Benefits of Hurdle Technology**
